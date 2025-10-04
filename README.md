@@ -48,14 +48,14 @@ ANSIBLE_HOST_KEY_CHECKING=False ansible-playbook -i hosts.ini install_nginx.yml
 
 Успешная установка:
 
-[Успешное](img/9.png)
+![Успешное](img/9.png)
 
 Проверка работы nginx на web-a:
 
-[Успешное](img/10.png)
+![Успешное](img/10.png)
 
 Проверка работы nginx на web-b:
-[Успешное](img/11.png)
+![Успешное](img/11.png)
 
 Развернутые в облаке ВМ:
 ![развернутыt в облаке ВМ](img/12.png)
